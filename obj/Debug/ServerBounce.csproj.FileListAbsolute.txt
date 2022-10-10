@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\ServerBounce.exe.config
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\ServerBounce.exe
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\ServerBounce.pdb
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\obj\Debug\ServerBounce.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\obj\Debug\ServerBounce.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\obj\Debug\ServerBounce.exe
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\obj\Debug\ServerBounce.pdb
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\ServerBounce\ServerBounce\obj\Debug\ServerBounce.csproj.CopyComplete
